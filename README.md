@@ -1,4 +1,4 @@
-# This space gives quick access to all my projects done so far.
+This space gives quick access to all my projects done so far.
 # [Project 1: Road Accidents Data Analysis and Severity Prediction](https://github.com/anushadas7/Accidents-Data-Analysis)
 This project aims to find out the different factors that contribute to a severe road accident and develop a model to predict the severity of accidents.
 * Explored data set of about 3.5 million records.
