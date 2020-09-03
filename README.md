@@ -15,5 +15,5 @@ This is a reserch project which aims to understand the cause and effect of extra
 # [Project 3: Class 12th Database](https://github.com/anushadas7/Class12-Database)
 In this project I built an interactive database to store academic records of 4 sections of Class 12th. It is very flexible in letting the user add, modify, sort or delete records as per their liking.
 
-![](/images/2020-09-03%20(1).png)
+![](https://github.com/anushadas7/Anusha-Das-Portfolio/blob/master/images/2020-09-03%20(1).png)
 
