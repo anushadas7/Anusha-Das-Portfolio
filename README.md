@@ -5,6 +5,8 @@ This project aims to find out the different factors that contribute to a severe 
 * Cleaned and balanced dataset for EDA.
 * Used Logistic Regression, KNN, SVM, Decision Trees and Random Forest classifications to reach the best model.
 
+![](https://github.com/anushadas7/Anusha-Das-Portfolio/blob/master/images/download.png)
+
 # [Project 2: Effect of Extra Curriculars on Academics](https://github.com/anushadas7/ECA-on-academics)
 This is a reserch project which aims to understand the cause and effect of extra curricular activities on academics through Design of Experiments. Information was collected by circulating a questionnaire throughout the students of Delhi University who have been a part of an ECA Society or a club. After receiving responses from 200+ Students we made use of Factorial Experiments to carry out the appropriate analysis. In accordance with many reports and research papers published there is significant impact of Co-curricular activities on Grades, but our study has led us in a different direction concluding with the thought process that there is actually no significant influence of ECA Activities on the academic performance of a student throughout their college curriculum.
 
